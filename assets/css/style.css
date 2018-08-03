@@ -1,0 +1,52 @@
+body{
+    background: url(../images/asylum.jpg) no-repeat center center fixed; 
+    height: 100%;
+    width: 100%;
+    
+}
+
+img {
+   height: 12%;
+   width: 60%;
+   display: block;
+    margin: 0 auto;
+    
+   
+}
+p {
+    padding: 10px;
+    font-family: 'Homemade Apple', cursive;
+    font-weight: bold;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    font-size: 20px;
+}
+
+.container {
+    text-align:center;
+    color: red;
+    width: 80%;
+    height:90%;
+  
+    
+}
+
+#session9, #evildead, #halloween, #loser {
+    display: block;
+    margin: 0 auto;
+}
+
+#tryagain, #loser, #session9, #evildead, #halloween {
+display: none;
+
+}
+
+.gamegraphics1, .gamegraphics2 {
+    border: 5px solid red;
+    height: 450px;
+    width: 350px;
+    
+}
+
+.gamegraphics2 {
+    background: url(../images/smoke.jpg) no-repeat center center fixed;
+}
